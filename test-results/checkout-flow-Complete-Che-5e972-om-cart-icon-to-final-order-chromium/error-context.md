@@ -1,0 +1,124 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Lojas":
+    - /url: /lojas
+  - link "Favoritos":
+    - /url: /favoritos
+  - link "Contato":
+    - /url: /contato
+  - link "Login":
+    - /url: /login
+  - text: "|"
+  - link "Registrar":
+    - /url: /register
+  - heading "NextUZ" [level=1]
+  - textbox "Buscar produtos..."
+  - button "Buscar"
+  - img
+  - text: "2"
+  - button "Finalizar sua compra"
+  - text: Informe seu CEP
+  - navigation:
+    - button "Eletrônicos"
+    - button "Moda"
+    - button "Casa & Decoração"
+- main:
+  - img "Oferta Especial - Smartphones"
+  - heading "Oferta Especial - Smartphones" [level=2]
+  - paragraph: Até 50% de desconto
+  - img "Novidades em Moda"
+  - heading "Novidades em Moda" [level=2]
+  - paragraph: Coleção Primavera/Verão
+  - img "Casa & Decoração"
+  - heading "Casa & Decoração" [level=2]
+  - paragraph: Renove seu lar
+  - button "Slide anterior"
+  - button "Próximo slide"
+  - button "Ir para slide 1"
+  - button "Ir para slide 2"
+  - button "Ir para slide 3"
+  - heading "CORREDORES" [level=2]
+  - button "PET"
+  - button "NOVIDADES"
+  - button "LATICÍNIOS"
+  - button "MASSAS"
+  - button "ENLATADOS"
+  - button "DOCES"
+  - button "BEBIDAS"
+  - button "SABÃO"
+  - button "HIGIENE"
+  - button "CABELO"
+  - button "LIMPEZA"
+  - button "PELE"
+  - button "MAMÃE E BEBÊ"
+  - img "Ração Premium para Cães"
+  - heading "Ração Premium para Cães" [level=3]
+  - text: 4.8 (320) R$ 109,99 R$ 89,99
+  - button
+  - text: "1"
+  - button
+  - img "Brinquedo Interativo Gato"
+  - heading "Brinquedo Interativo Gato" [level=3]
+  - text: 4.6 (185) R$ 34,99
+  - button
+  - text: "1"
+  - button
+  - link "Nova Coleção - Banner sazonal com coleção atual":
+    - /url: /novidades
+    - img "Banner sazonal com coleção atual"
+    - heading "Nova Coleção" [level=3]
+  - heading "CORREDORES" [level=2]
+  - button "PET"
+  - button "NOVIDADES"
+  - button "LATICÍNIOS"
+  - button "MASSAS"
+  - button "ENLATADOS"
+  - button "DOCES"
+  - button "BEBIDAS"
+  - button "SABÃO"
+  - button "HIGIENE"
+  - button "CABELO"
+  - button "LIMPEZA"
+  - button "PELE"
+  - button "MAMÃE E BEBÊ"
+  - img "Ração Premium para Cães"
+  - heading "Ração Premium para Cães" [level=3]
+  - text: 4.8 (320) R$ 109,99 R$ 89,99
+  - button
+  - text: "1"
+  - button
+  - img "Brinquedo Interativo Gato"
+  - heading "Brinquedo Interativo Gato" [level=3]
+  - text: 4.6 (185) R$ 34,99
+  - button
+  - text: "1"
+  - button
+- heading "Carrinho de Compras" [level=2]
+- button "Fechar"
+- img "Ração Premium para Cães"
+- heading "Ração Premium para Cães" [level=3]
+- paragraph: Ração premium com ingredientes naturais
+- text: R$ 89,99 R$ 109,99 R$ 89,99
+- button "Diminuir quantidade"
+- text: "1"
+- button "Aumentar quantidade"
+- button "Remover item"
+- separator
+- img "Brinquedo Interativo Gato"
+- heading "Brinquedo Interativo Gato" [level=3]
+- paragraph: Brinquedo que estimula o instinto natural
+- text: R$ 34,99 R$ 34,99
+- button "Diminuir quantidade"
+- text: "1"
+- button "Aumentar quantidade"
+- button "Remover item"
+- separator
+- heading "Resumo do Pedido" [level=3]
+- text: Subtotal (2 itens) R$ 124,98 Frete Entrega padrão (5-7 dias úteis) R$ 9,99 Impostos R$ 10,00
+- separator
+- text: "Total R$ 144,97 Entrega estimada: 5 dias úteis"
+- button "Finalizar Compra"
+- button "Continuar Comprando"
+```
